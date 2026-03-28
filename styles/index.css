@@ -137,7 +137,7 @@ main {
 
 .review-card {
 	width: 366;
-	
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
 .review-stars {
@@ -183,4 +183,32 @@ main {
 	font-weight: 400;
 	color: #252432;
 	margin: 0;
+}
+
+/* slogan section */
+
+.slogan {
+	text-align: center;
+	margin-top: 137px;
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+	padding: 71px 150px;
+}
+
+.slogan-title {
+	font-size: 50px;
+	font-weight: bold;
+	color: #000000;
+	margin-bottom: 0;
+}
+
+.slogan-subtitle {
+	width: 487;
+	height: 22px;
+	color: rgba(0, 0, 0, 0.575);
+	margin-top: 20px;
+}
+
+.slogan-img {
+	border-radius: 48px;
+	margin-top: 20px;
 }
