@@ -116,3 +116,71 @@ main {
 	color: #000000;
 	margin-top: 0;
 }
+
+/* Users’ Feedback Section */
+
+.users-feedback {
+	margin-top: 137px;
+}
+
+.feedback-heading {
+	font-size: 42px;
+	font-weight: bold;
+	color: #252432;
+	text-align: center;
+}
+
+.reviews-container {
+	display: flex;
+	gap: 20px;
+}
+
+.review-card {
+	width: 366;
+	
+}
+
+.review-stars {
+ width: 116;
+ justify-content: space-between;
+}
+
+.review-title {
+	font-size: 24px;
+	font-weight: 600;
+	color: #252432;
+}
+
+.review-subtitle {
+	font-size: 15px;
+	color: #252432;
+	justify-content: left;
+	padding-right: 15px;
+}
+
+.author {
+	display: flex;
+
+}
+
+.author-png {
+	border-radius: 50px;
+}
+
+.author-deg {
+	margin: 0;
+}
+
+.author-name {
+	font-size: 15px;
+	font-weight: 500;
+	color: #252432;
+	margin: 0;
+}
+
+.date {
+	font-size: 15px;
+	font-weight: 400;
+	color: #252432;
+	margin: 0;
+}
